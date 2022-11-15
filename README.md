@@ -11,5 +11,5 @@
 * * * 
 
 * Инструкция по запуску игры: 
-    * Перейти по ссылке : https://VladislavRE250401.github.io/GNSite/
+    * Перейти по ссылке : https://vladislavre250401.github.io/GNSite/
     * Следовать указанием игры.
