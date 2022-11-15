@@ -64,7 +64,7 @@ export function messageOutput(type_message) {
         blockShowGame.style.display = 'none';
         blockResult.style.display = 'flex';
         blockResultText.innerHTML = "Victory! You guessed the number " + hiddenNumber +
-            " c " + (numAttempt - var_numAttempt + 1) + "th attempt";
+            " for " + (numAttempt - var_numAttempt + 1) + "th attempt";
     }
     if (type_message === "loose") {
         blockMessage.style.display = 'none';
